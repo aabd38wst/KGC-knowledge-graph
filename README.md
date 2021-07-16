@@ -17,7 +17,7 @@ For the years 2019 and 2020.
 * The Networker: https://kgc20.infoloom.com/names/ (guest/preview2020)
 
 ## How to contribute
-To contribute, fork this repository, update the graph and submit a pull request
+To contribute, fork this repository, update the graph, and submit a pull request.
 
 ## Contributors:
 * Evan Volow
